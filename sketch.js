@@ -4,7 +4,6 @@ let yCircle = 200;
 let diameter = 13;
 let radius = diameter / 2;
 
-
 // circle speed
 let speedXCircle = 6;
 let speedYCircle = 6;
