@@ -21,7 +21,7 @@ let SpeedYOpponent;
 
 let hit = false;
 
-//scoreboard
+// scoreboard
 let opponentScore = 0;
 let myScore = 0;
 
