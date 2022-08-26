@@ -8,7 +8,7 @@ let radius = diameter / 2;
 let speedXCircle = 6;
 let speedYCircle = 6;
 
-//racket variables
+// racket variables
 let xRacket = 5;
 let yRacket = 150;
 let wRacket = 10;
