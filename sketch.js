@@ -14,7 +14,7 @@ let yRacket = 150;
 let wRacket = 10;
 let hRacket = 90;
 
-//opponent's racket variables
+// opponent's racket variables
 let xRacketOpponent = 585;
 let yRacketOpponent = 150;
 let SpeedYOpponent;
