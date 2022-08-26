@@ -25,7 +25,7 @@ let hit = false;
 let opponentScore = 0;
 let myScore = 0;
 
-//sounds
+// sounds
 let racketSound;
 let backgroundSound;
 let pointSound;
