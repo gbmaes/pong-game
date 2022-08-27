@@ -11,6 +11,7 @@ let speedXCircle = 6;
 let speedYCircle = 6;
 
 // racket variables
+
 let xRacket = 5;
 let yRacket = 150;
 let wRacket = 10;
