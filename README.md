@@ -12,7 +12,7 @@ After studying this project in the online coding school Alura, I developed this 
 
 >Or you can just play the Scratch version (recommended if you just want to play it): https://scratch.mit.edu/projects/722633263/
 
-By the way I made it multiplayer version so you can play with your friends or family!
+By the way the JavaScript version is multiplayer so you can play with your friends or family!
 
 >Player 1 commands: UP ARROW and DOWN ARROW;
 
