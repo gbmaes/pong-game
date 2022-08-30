@@ -57,7 +57,7 @@ function draw() {
   circleDoNotStuck();
 }
 
-function showCircle(){
+function showCircle() {
   circle(xCircle, yCircle, diameter);
 }
 
@@ -129,7 +129,7 @@ function includeScore(score, x, y) {
   text(opponentScore, 470, 26);
 }
 
-function scorePoint(){
+function scorePoint() {
   if (xCircle > 590){
     myScore += 1;
     pointSound.play();
