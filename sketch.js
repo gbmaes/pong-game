@@ -89,7 +89,7 @@ function moveMyRacket() {
   }
 }
 
-function verifyCollisionRacket(){
+function verifyCollisionRacket() {
   if (xCircle - radius < xRacket + wRacket && yCircle - radius < yRacket + hRacket && yCircle + radius > yRacket){
     speedXCircle *= -1;
     racketSound.play();
