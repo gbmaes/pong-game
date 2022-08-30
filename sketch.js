@@ -54,7 +54,7 @@ function draw() {
   verifyCollisionRacket(xRacketOpponent, yRacketOpponent);
   includeScore();
   scorePoint();
-  circleDoNotStuck()
+  circleDoNotStuck();
 }
 
 function showCircle(){
@@ -95,7 +95,6 @@ function verifyCollisionRacket(){
     racketSound.play();
   }
 }
-
 
 function verifyCollisionRacket(x, y){
   collided =
