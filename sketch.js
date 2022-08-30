@@ -25,12 +25,12 @@ let hit = false;
 let opponentScore = 0;
 let myScore = 0;
 
-// sounds
+//sounds
 let racketSound;
 let backgroundSound;
 let pointSound;
 
-function preload(){
+function preload() {
   backgroundSound = loadSound("trilha.mp3");
   pointSound = loadSound("ponto.mp3");
   racketSound = loadSound("raquetada.mp3");
