@@ -84,7 +84,7 @@ function moveMyRacket() {
     yRacket -= 10;
   }
   
-  if (keyIsDown(DOWN_ARROW)){
+  if (keyIsDown(DOWN_ARROW)) {
     yRacket += 10;
   }
 }
