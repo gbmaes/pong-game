@@ -8,21 +8,20 @@ let radius = diameter / 2;
 let speedXCircle = 6;
 let speedYCircle = 6;
 
-// racket variables
+//racket variables
 let xRacket = 5;
 let yRacket = 150;
 let wRacket = 10;
 let hRacket = 90;
 
-// opponent's racket variables
+//opponent's racket variables
 let xRacketOpponent = 585;
 let yRacketOpponent = 150;
 let SpeedYOpponent;
 
 let hit = false;
 
-// scoreboard
-
+//scoreboard
 let opponentScore = 0;
 let myScore = 0;
 
