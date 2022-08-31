@@ -22,11 +22,11 @@ let SpeedYOpponent;
 let hit = false;
 
 // scoreboard
+
 let opponentScore = 0;
 let myScore = 0;
 
 //sounds
-
 let racketSound;
 let backgroundSound;
 let pointSound;
