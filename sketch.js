@@ -1,5 +1,4 @@
 // circle variables
-
 let xCircle = 300;
 let yCircle = 200;
 let diameter = 13;
