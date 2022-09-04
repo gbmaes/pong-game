@@ -128,6 +128,7 @@ function includeScore(score, x, y) {
   fill(255);
   text(opponentScore, 470, 26);
 }
+
 function scorePoint() {
   if (xCircle > 590){
     myScore += 1;
@@ -138,6 +139,7 @@ function scorePoint() {
     pointSound.play();
   }
 }
+
 function circleDoNotStuck(){
     if (xCircle - radius < 0){
     xCircle = 23;
