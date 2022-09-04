@@ -128,7 +128,6 @@ function includeScore(score, x, y) {
   fill(255);
   text(opponentScore, 470, 26);
 }
-
 function scorePoint() {
   if (xCircle > 590){
     myScore += 1;
